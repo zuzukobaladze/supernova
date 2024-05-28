@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f7f7f7;
+}
+
+.formContainer {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.link a {
+  text-decoration: none;
+  color: inherit;
+  /* Ensure the link color matches the surrounding text */
+}
+
+.link a:hover {
+  text-decoration: underline;
+  /* Optional: Add underline on hover */
+}
