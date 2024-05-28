@@ -6,7 +6,7 @@ This project is a full-stack application demonstrating authentication using Grap
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application Locally](#running-the-application-locally)
-- [Comments] (#Comments)
+- [Comments](#comments)
 
 ## Prerequisites
 
