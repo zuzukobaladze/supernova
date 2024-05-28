@@ -6,6 +6,7 @@ This project is a full-stack application demonstrating authentication using Grap
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application Locally](#running-the-application-locally)
+- [Comments] (#Comments)
 
 ## Prerequisites
 
@@ -76,3 +77,11 @@ This project is a full-stack application demonstrating authentication using Grap
     ```
 
 3. Open your browser and go to `http://localhost:3000`.
+
+
+## Comments
+
+1. Upon installation, the database will be empty. You will need to populate it by registering some users. I believe this would be easier for testing purposes.
+2. To simulate different users on one device, open different browsers and go to `http://localhost:3000`, since I am using localStorage.
+3. The apollo libraries have been updated and the project is using the most recent one.
+4. Alsoo updated project to use TypeScript over JavaScript, since it was recommended by Apollo.
