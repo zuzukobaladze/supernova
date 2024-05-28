@@ -43,7 +43,6 @@ This project is a full-stack application demonstrating authentication using Grap
 
 1. Make sure you have .env file in backend directory. Create it and add these values:
     ```sh
-    cd backend
     touch .env
     ```
     Paste these into .env file:
