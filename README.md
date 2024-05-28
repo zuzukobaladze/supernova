@@ -49,7 +49,7 @@ This project is a full-stack application demonstrating authentication using Grap
     `PORT=4000` (or any other port number, just make sure there is nothing running on that port number)
     `JWT_SECRET=YOUR_JWT_SECRET_VALUE`
 
-    To generate YOUR_JWT_SECRET, run this command from terminal:
+    To generate YOUR_JWT_SECRET_VALUE, run this command from terminal:
     ```sh
     node -e "console.log(require('crypto').randomBytes(32).toString('hex'));"
     ```
